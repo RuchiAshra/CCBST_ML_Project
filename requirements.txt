@@ -1,5 +1,6 @@
-Pandas
+pandas
 scikit-learn
 flask
 numpy
-
+gunicorn
+pickle
